@@ -1,0 +1,14 @@
+
+{
+    "files.exclude": {
+        "**/.vscode": true,
+        "**/.vs": true,
+        "**/vivida.egg-info": true,
+        "**/build": true,
+        "**/__pycache__": true,
+        "**/dist": true,
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    }
+}

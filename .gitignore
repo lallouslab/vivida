@@ -1,0 +1,12 @@
+build/
+.vs/
+.idea/
+dist/
+.vscode/
+vivida.egg-info/
+__pycache__/
+*.sublime-*
+*.pyc
+*.id[01]
+*.nam
+*.til
